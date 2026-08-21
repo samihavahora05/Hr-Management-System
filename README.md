@@ -1,6 +1,6 @@
 # Enterprise HR Management System (HRMS)
 
-An enterprise-grade, role-aware **Human Resource Management System** designed for modern organizations. Built with **Laravel 11 (PHP 8+)** on the backend and **Next.js 15 (TypeScript + TailwindCSS)** on the frontend, featuring real-time attendance tracking, statutory payroll, leave management, recruitment ATS, performance analytics, and administrative overrides.
+An enterprise-grade, role-aware **Human Resource Management System** designed for modern organizations. Built with **Laravel 11 (PHP 8+)** on the backend and **Next.js 15 (TypeScript + TailwindCSS)** on the frontend, featuring real-time attendance tracking, leave management, recruitment ATS, performance analytics, and administrative overrides.
 
 ---
 
@@ -14,22 +14,19 @@ An enterprise-grade, role-aware **Human Resource Management System** designed fo
 
 ### 💼 HR Portal (`/hr`)
 - **Recruitment & ATS**: Manage job openings, applicant pipelines, schedule interviews, and generate digital job offer letters.
-- **Onboarding Checklists**: Assign and track new employee onboarding tasks and compliance documentation.
-- **Leave & Attendance Overview**: Review organization leave requests, statutory leave balances, and attendance trends.
+- **Onboarding Checklists**: Assign and track new employee tasks and compliance documentation.
 - **Statutory Payroll**: Configure salary structures, tax deductions, allowances, and generate monthly payslips.
 
 ### 👔 Manager & Team Leader Portals (`/manager` & `/team-leader`)
 - **Direct Team Monitoring**: View team check-in status, attendance logs, and punctuality stats.
 - **Task Management**: Assign tasks, monitor completion status, and review deliverables.
 - **Performance Reviews**: Conduct periodic performance evaluations and track team goals.
-- **Leave Approvals**: Approve or reject leave applications submitted by direct reports.
 
 ### 👤 Employee Portal (`/employee`)
 - **Personal Attendance & Clock-In/Out**: One-click check-in and check-out with automatic late calculation.
 - **Leave Applications**: Request leave, view real-time balances, and track approval statuses.
 - **Expense Claims & Loans**: Submit expense reimbursement claims with receipt uploads and apply for salary loans.
 - **My Vault & Documents**: Secure storage for employment contracts, IDs, and tax documents.
-- **HR Helpdesk**: Raise support tickets for HR, IT, or payroll inquiries.
 
 ---
 
